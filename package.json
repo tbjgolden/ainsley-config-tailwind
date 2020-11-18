@@ -117,7 +117,7 @@
     "rollup-plugin-size-snapshot": "0.12.0",
     "rollup-plugin-sourcemaps": "0.6.2",
     "rollup-plugin-terser": "6.0.1",
-    "semantic-release": "^17.0.7",
+    "semantic-release": "^17.2.3",
     "tachyons": "^4.12.0",
     "ts-jest": "26.0.0",
     "ts-loader": "^7.0.5",
